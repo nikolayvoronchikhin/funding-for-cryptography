@@ -1,0 +1,50 @@
+
+
+iText: Programmable PDF software: iText® is an open source library that allows you to create and manipulate PDF documents. 
+It enables developers looking to enhance web- and other applications with dynamic PDF document generation and/or manipulation.
+iText is available in Java as well as in .Net and Android.
+
+Snowtide Informatics: PDFTextStream: PDF Text Extraction for JAVA & .NET
+
+// sample code to extract one page of PDF text
+package help.quickstart; 
+import java.io.IOException;
+import com.snowtide.pdf.OutputTarget;
+import com.snowtide.pdf.PDFTextStream;
+ 
+public class ExtractTextOnePage {
+    public static void main (String[] args) throws IOException {
+        String pdfFilePath = args[0];
+        PDFTextStream pdfts = new PDFTextStream(pdfFilePath);
+        StringBuilder text = new StringBuilder(1024);
+        pdfts.getPage(0).pipe(new OutputTarget(text));
+        pdfts.close();
+        System.out.printf("The text extracted from the first page of %s is:",
+                pdfFilePath);
+        System.out.println(text);
+    }
+}
+
+
+Apache Tika API (ParsingReader)
+java.lang.Object
+  extended by java.io.Reader
+      extended by org.apache.tika.parser.ParsingReader
+
+Apache PDFBox API (PDFTextStripper):
+java.lang.Object
+  org.apache.pdfbox.util.PDFStreamEngine
+      org.apache.pdfbox.util.PDFTextStripper
+
+	  
+Computer Science Undergraduate Research Project:
+=> Cryptography research topics with Dr. Phillip Rogaway
+
+The objective of this project is :
+
+In doing this research project, we hope to achieve the following goals: 
+
+
+Technologies: SQL Server 2012, SQL Server Management Studio, Transact-SQL, Microsoft Excel, iText, Snowtide, Parsing Reader, 
+Apache PDFBox API, PDF Text Stripper, Eclipse IDE for Java EE Developers, Java, JSP, JDBC, JDK, JRE, HTML, CSS, JSON, XML, SQL, CSV, PDF, Collabedit
+
