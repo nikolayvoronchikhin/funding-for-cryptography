@@ -45,6 +45,14 @@ The objective of this project is :
 In doing this research project, we hope to achieve the following goals: 
 
 
-Technologies: SQL Server 2012, SQL Server Management Studio, Transact-SQL, Microsoft Excel, iText, Snowtide, Parsing Reader, 
-Apache PDFBox API, PDF Text Stripper, Eclipse IDE for Java EE Developers, Java, JSP, JDBC, JDK, JRE, HTML, CSS, JSON, XML, SQL, CSV, PDF, Collabedit
+Technologies: SQL Server 2012, SQL Server Management Studio, Transact-SQL, Microsoft Excel, iText Java PDF Library (iText Software), 
+PDFTextStream (Snowtide Informatics), ParsingReader (Apache Tika API), PDFTextStripper (Apache PDFBox API), Eclipse IDE for Java EE Developers, 
+Java, JSP, JDBC, JDK, JRE, HTML, CSS, JSON, XML, SQL, CSV, PDF, Git, GitHub, GitHub for Windows, Windows PowerShell, Collabedit
 
+
+Add file to GitHub using Git:
+Go to repository with files
+git add .
+git commit -m "Message here."
+git pull origin master     --the 2nd time around; on first commit, this command is unneeded
+git push -u origin master
