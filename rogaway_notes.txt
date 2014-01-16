@@ -40,10 +40,6 @@ java.lang.Object
 Computer Science Undergraduate Research Project:
 => Cryptography research topics with Dr. Phillip Rogaway
 
-The objective of this project is :
-
-In doing this research project, we hope to achieve the following goals: 
-
 
 Technologies: SQL Server 2012, SQL Server Management Studio, Transact-SQL, Microsoft Excel, iText Java PDF Library (iText Software), 
 PDFTextStream (Snowtide Informatics), ParsingReader (Apache Tika API), PDFTextStripper (Apache PDFBox API), Eclipse IDE for Java EE Developers, 
