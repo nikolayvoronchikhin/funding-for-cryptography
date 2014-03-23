@@ -1,4 +1,4 @@
-1/15/14 Notes:
+
 
 iText: Programmable PDF software: iText® is an open source library that allows you to create and manipulate PDF documents. 
 It enables developers looking to enhance web- and other applications with dynamic PDF document generation and/or manipulation.
@@ -40,6 +40,10 @@ java.lang.Object
 Computer Science Undergraduate Research Project:
 => Cryptography research topics with Dr. Phillip Rogaway
 
+The objective of this project is :
+
+In doing this research project, we hope to achieve the following goals: 
+
 
 Technologies: SQL Server 2012, SQL Server Management Studio, Transact-SQL (T-SQL), Microsoft Excel, iText Java PDF Library (iText Software), 
 PDFTextStream (Snowtide Informatics), ParsingReader (Apache Tika API), PDFTextStripper (Apache PDFBox API), Eclipse IDE for Java EE Developers, 
@@ -77,6 +81,14 @@ tcc
 Read PDF File from a URL in Java: http://www.gnostice.com/nl_article.asp?id=207&t=How_To_Read_A_PDF_File_From_A_URL_In_Java
 
 jQuery PDF Viewer: http://dev.funkynerd.com/projects/jquery-pdfdoc/wiki/Quick_Start_Guide
+
+
+
+ECS 199 Winter 2014 Google Doc:
+https://docs.google.com/spreadsheet/ccc?key=0AqwoMJEQ7yKTdFBPM21rQ2phOVNYQ3lEZHVOTVp0VUE&usp=drive_web#gid=6
+
+Done with TCC, PKC, Asiacrypt, Crypto, Eurocrypt.
+TODO: conference years that have not been filled up but can be!
 
 
 
