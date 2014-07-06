@@ -1,3 +1,5 @@
+// Copyright (c) 2013.  Nikolay Voronchikhin. All rights reserved. Not for re-use or re-publication as academic work or otherwise.
+
 import java.net.*;
 import java.io.*;
 //Sql.java -- sample program to read a database 
